@@ -39,7 +39,7 @@ Computed measures such as mean, median, standard deviation, and quartiles.
   Utilized bar plots, line plots, scatter plots, histograms, and box plots to visualize the data.
   Performance Analysis:
 
-*Analyzed the performance of lifters based on various factors such as weight class, equipment used, and country.
+* Analyzed the performance of lifters based on various factors such as weight class, equipment used, and country.
   Investigated the highest total weight lifted and identified standout performers in each weight class.
 * Time Trend Analysis:
 
